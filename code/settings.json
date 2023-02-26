@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.py": "python"
+    },
+    "workbench.colorTheme": "Default Dark+",
+    "python.linting.pycodestyleEnabled": true,
+    "python.languageServer": "Pylance",
+    "workbench.editorAssociations": {
+        "*.vsix": "default"
+    }
+}
